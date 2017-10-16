@@ -20,3 +20,7 @@ Here's non-exhaustive list of papers and lectures on Delaunay Triangulations:
 
 ### Distributed Algorithms
 - [Efficient and Accurate Protocols for Distributed Delaunay Triangulation under Churn](http://www.cs.utexas.edu/users/lam/Vita/Cpapers/LeeLam08.pdf)
+
+## Geometry Solutions
+- [Check if is point inside circumcircle](https://stackoverflow.com/a/44875841/6852160)
+- [Check if points are sorted in counter-clockwise order](https://stackoverflow.com/a/44875841/6852160)
